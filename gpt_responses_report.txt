@@ -1,0 +1,5 @@
+
+# Findings Report on GPT Prompt Responses
+
+## Prompts Tested:
+
